@@ -1,0 +1,7 @@
+{
+  "name": "CrediFácil Elite",
+  "description": "Plataforma avançada de gestão de crédito flat e controle de carteira de ativos com inteligência operacional local.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
